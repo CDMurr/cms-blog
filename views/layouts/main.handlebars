@@ -11,7 +11,7 @@
   <div class="wrapper">
     <header>
       <h1>
-        <a href="/">Just Tech News</a>
+        <a href="/">CMS-blog</a>
       </h1>
       <nav>
         {{#if loggedIn}}
@@ -30,6 +30,9 @@
     </footer>
   </div>
   
+  {{#if loggedIn}}
+  <script src="/javascript/logout.js"></script>
+  {{/if}}
 </body>
 
 </html>
