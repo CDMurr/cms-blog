@@ -106,15 +106,15 @@
   
   .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: #eb3434;
   }
   
   .delete-post-btn {
-    background-color: #d41414;
+    background-color: #14d47e;
   }
   
   .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: #3dff84;
   }
   
   .post {
@@ -134,12 +134,12 @@
   }
   
   .upvote-btn {
-    background-color: #197d0f;
+    background-color: #3a056b8f;
     transition: background-color .1s;
   }
   
   .upvote-btn:hover {
-    background-color: #1f9c13;
+    background-color: #03155958;
   }
   
   .comment-form {
@@ -152,7 +152,7 @@
   }
   
   .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: #c2986e;
   }
   
   .comment .meta {
@@ -170,7 +170,7 @@
   }
   
   footer {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid rgb(199, 197, 164);
     display: flex;
     justify-content: center;
     padding: 1%;

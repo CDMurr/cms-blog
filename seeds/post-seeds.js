@@ -2,43 +2,43 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Donec posuere metus vitae ipsum.',
-    content : 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    title: 'HELLO TECH PEOPLE',
+    content : 'Are keyboards a thing of the PAST!!!',
     user_id: 10
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    content : 'https://nasa.gov/donec.json',
+    title: 'ACTORS BREAKING INTO TECH',
+    content : 'When is the best time to break into software development?',
     user_id: 8
   },
   {
-    title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    content : 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
+    title: 'MOTOROLA MAKE A COMEBACK!',
+    content : 'Phones are a thing of the past.',
     user_id: 1
   },
   {
-    title: 'Nunc purus.',
-    content : 'http://desdev.cn/enim/blandit/mi.jpg',
+    title: 'TECH NEWS DAILY',
+    content : 'Best pc of 2022 is a laptop',
     user_id: 4
   },
   {
-    title: 'Pellentesque eget nunc.',
+    title: 'DAILY TECH NEWS ',
     content : 'http://google.ca/nam/nulla/integer.aspx',
     user_id: 7
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',
-    content : 'https://stanford.edu/consequat.png',
+    title: 'CODING PONG ',
+    content : 'ping pong helps developers code',
     user_id: 4
   },
   {
-    title: 'In hac habitasse platea dictumst.',
+    title: 'NBA FINALS TECH BACKED!.',
     content : 'http://edublogs.org/non/ligula/pellentesque.js',
     user_id: 1
   },
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
-    content : 'http://ucla.edu/consequat/nulla.html',
+    content : 'HELP, this application is not finished',
     user_id: 1
   },
   {
@@ -47,7 +47,7 @@ const postdata = [
     user_id: 9
   },
   {
-    title: 'Curabitur at ipsum ac tellus semper interdum.',
+    title: 'WE ARE JUST LEARNIG JAVASCRIPT!',
     content : 'https://reverbnation.com/ligula/sit.jpg',
     user_id: 5
   },
@@ -57,17 +57,17 @@ const postdata = [
     user_id: 3
   },
   {
-    title: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.',
+    title: 'BOBS BURGER MOVIE',
     content : 'http://networksolutions.com/nam/ultrices/libero/non/mattis/pulvinar.json',
     user_id: 10
   },
   {
-    title: 'Donec dapibus.',
+    title: 'TECH NEWS WEEKLY',
     content : 'https://instagram.com/ac/neque/duis/bibendum/morbi/non.xml',
     user_id: 8
   },
   {
-    title: 'Nulla tellus.',
+    title: 'WEEKLY TECH NEWS',
     content : 'https://lycos.com/natoque/penatibus/et.html',
     user_id: 3
   },
