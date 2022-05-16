@@ -1,7 +1,9 @@
 # cms-blog
 
+## Description 
+This is a blog for tech news info, from different users from anywhere with an internet connection. Connecting 10's of people all across the world. 
 
-
+[alt text](./Screen%20Shot%202022-05-15%20at%208.09.54%20PM.png)
 
 
 ## Usage 
@@ -13,3 +15,4 @@ https://fast-spire-39801.herokuapp.com/
 
 github link
 https://github.com/CDMurr/cms-blog
+
